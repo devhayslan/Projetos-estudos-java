@@ -18,6 +18,8 @@ public class TarefaMod11 {
 
         System.out.println("Iremos começar a registrar o nome o gênero que deseja!\n");
 
+
+
         for (int i = 0; i < QUANT_PESSOAS; i++) {
             nomesEGeneros[i] = new NomesEGeneros();
 
